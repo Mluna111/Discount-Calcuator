@@ -23,8 +23,7 @@ Project consists of a simple web form that calculates the sales price after disc
 <br/>
 <br/>
 <img src="https://imgur.com/FtWtFcb.png" height="80%" width="80%" />
-<br />
-<br />
+
 <br />
 <br />
 <b>Web Form After Confirm Button is Pressed: </b>
